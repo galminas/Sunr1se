@@ -6,7 +6,7 @@ before_install:
 
 addons:
   sonarcloud:
-    organization: deegemon-github
+    organization: galminas-github
     token:
       secure: $SONAR_TOKEN
 
